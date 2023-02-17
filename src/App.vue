@@ -60,6 +60,19 @@
       <br><span class="text-xl">Felicidades éstas en el lugar correcto.</span> </h1>
       
     </div>
+
+    <!--Quienes somos-->
+    <div class="w-full bg-blue-300 font-serif flex justify-between p-6 mt-5 my-4 mb-7 gap-5">
+
+      <img src="./components/icons/mural.jpg" width="400" height="150">
+        <span class="flex-col"><h1 class="text-3xl my-10 text-center  text-white py-4 mx-5 sm:py-2">¿Quiénes somos? </h1>
+          <p class="text-2xl m-4 py-2 text-black">
+            Porque aquí importas tú, este sitio esta desarrollado para tí. Sí, nos gustaría conocer
+            las ideas que tienes en mente para ir contigo de la mano y llevarlo acabo. <br>
+            ¿Apoco no te gustaría que te gradues y todos puedan ver tu foto y nombre aquí?
+          </p> 
+        </span>
+    </div>
     
   </div>
   
