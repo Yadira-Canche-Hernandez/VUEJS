@@ -90,6 +90,20 @@
     
     </div>
 
+    <div class="flex">
+      <!--Beneficios-->
+      <div class="w-2/4 flex-col bg-emerald-300 rounded-lg py-2 px-2 mt-5 my-4 mb-7 gap-5 mx-7">
+
+        <h1 class="text-3xl my-10 text-center  text-white mx-5 sm:py-2">Contamos con </h1>
+        <ul  class="text-xl text-black list-disc">
+          <li class="mx-7 gap-3">Asesoramiento gratuito por parte de personal docente e invitados.</li>
+          <li class="mx-7">Aulas virtuales y presenciales.</li>
+          <li class="mx-7">Disponibilidad de horario para asesoramiento.</li>
+          <li class="mx-7">Posible participación en concursos de Innovación.</li>
+        </ul> 
+
+      </div>
+    </div>
   </div>
   
 </template>
