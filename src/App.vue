@@ -51,6 +51,15 @@
     
     </div>
 
+    <!--DATO-->
+    <div class="py-2 px-2  bg-black font-serif rounded-md flex-col m-10 ">
+      
+      <hr class="mt-2 border-2 border-white sm:mx-auto dark:border-black-700 lg:my-2" />
+      
+      <h1 class="text-2xl text-center text-white py-2 sm:py-2">¿Haz planteado un proyecto o has comenzado uno pero no has podido acabarlo?
+      <br><span class="text-xl">Felicidades éstas en el lugar correcto.</span> </h1>
+      
+    </div>
     
   </div>
   
