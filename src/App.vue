@@ -120,6 +120,23 @@
       </div>
 
     </div>
+
+    <!--Contacto-->
+    <div class="w-full bg-slate-400 font-serif flex justify-between p-6 mt-5 my-4 mb-7 gap-5">
+      
+      <p class="text-xl m-4 text-black text-center">
+      Para más información:
+        <br> contacto@isclab.com.mx 
+
+      </p> 
+
+      <p class="text-xl m-4 text-black text-center">
+      Te esperamos, tenemos café para los breaks. ^.^ 
+
+      </p> 
+
+    </div>
+
   </div>
   
 </template>
