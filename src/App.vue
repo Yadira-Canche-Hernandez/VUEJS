@@ -42,7 +42,16 @@
           </g>
       </svg>
 
-</div>
+    </div>
+
+    <!--titulo-->
+    <div class="w-full top-0 left-0 bg-gradient-to-r from-indigo-400 to-pink-400 text-white px-2">
+    
+      <h1 class="text-4xl my-2  text-center  py-2 sm:py-2"><span class="font-bold">~ B I E N V E N I D O S ~</span> </h1>
+    
+    </div>
+
+    
   </div>
   
 </template>
