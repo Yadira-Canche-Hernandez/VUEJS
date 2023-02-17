@@ -74,6 +74,22 @@
         </span>
     </div>
     
+    <!--Objetivo-->
+    <div class="w-full bg-purple-300 font-serif flex justify-between p-6 mt-5 my-4 mb-7 gap-5">
+      
+      <span class="flex-col">
+        <h1 class="text-3xl my-2 text-center text-bold text-white py-2 mx-5 sm:py-2">¿Nuestro objetivo? </h1>
+        <p class="text-xl m-2 py-5 text-black text-left ">
+          Desarrollar proyectos que pueden tener un éxito consolidable pero no se han desarrollado en el tiempo y forma suficiente.
+          De tal forma que ayudemos a la carrera de Ingeniería en Sistemas Computacionales a tener como ejemplo las creaciones que aquí se logren,
+          dándole la oportunidad a los jóvenes de sobresalir de los demás.
+        </p> 
+        <br>
+      </span>
+      <img src="./components/icons/codigo.jpeg" width="400" height="150">
+    
+    </div>
+
   </div>
   
 </template>
