@@ -103,6 +103,22 @@
         </ul> 
 
       </div>
+
+      <!--Requisitos-->
+      <div class="w-2/4 flex-col bg-pink-300 rounded-lg justify-between py-2 px-2 mt-5 my-4 mb-7 gap-5 mx-7">
+
+        <h1 class="text-3xl text-center  text-white py-4 mx-5 sm:py-2">Únicamente debes considerar lo siguiente para unirte y no esperar más: </h1>
+        <ul  class="text-xl m-4 py-5 text-black list-disc">
+          <li class="mx-7">Tener experiencia en algún lenguaje de programación.</li>
+          <li class="mx-7">Tener un proyecto ya sea nuevo, diferente o raro.</li>
+          <li class="mx-7">Preferentemente ser de ISC.</li>
+          <li class="mx-7">Tener aspiración a ganar.</li>
+          <li class="mx-7"> Ser empático y humilde</li>
+          
+        </ul> 
+
+      </div>
+
     </div>
   </div>
   
